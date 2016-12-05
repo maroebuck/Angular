@@ -1,0 +1,6 @@
+C:\Users\Mark\OneDrive\GitHub\Angular\Angular\bin\Debug\netcoreapp1.0\Angular.dll
+C:\Users\Mark\OneDrive\GitHub\Angular\Angular\bin\Debug\netcoreapp1.0\Angular.pdb
+C:\Users\Mark\OneDrive\GitHub\Angular\Angular\obj\Debug\netcoreapp1.0\Angular.AssemblyInfo.cs
+C:\Users\Mark\OneDrive\GitHub\Angular\Angular\obj\Debug\netcoreapp1.0\Angular.dll
+C:\Users\Mark\OneDrive\GitHub\Angular\Angular\obj\Debug\netcoreapp1.0\Angular.pdb
+C:\Users\Mark\OneDrive\GitHub\Angular\Angular\obj\Debug\netcoreapp1.0\Angular.csprojResolveAssemblyReference.cache
